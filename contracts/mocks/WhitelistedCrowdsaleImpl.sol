@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
-import "../token/ERC20/ERC20.sol";
-import "../crowdsale/validation/WhitelistedCrowdsale.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/crowdsale/validation/WhitelistedCrowdsale.sol";
 
 
 contract WhitelistedCrowdsaleImpl is WhitelistedCrowdsale {

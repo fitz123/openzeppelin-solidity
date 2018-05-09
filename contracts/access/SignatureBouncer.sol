@@ -1,8 +1,8 @@
 pragma solidity ^0.4.18;
 
-import "../ownership/Ownable.sol";
-import "../ownership/rbac/RBAC.sol";
-import "../ECRecovery.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ownership/Ownable.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ownership/rbac/RBAC.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ECRecovery.sol";
 
 /**
  * @title SignatureBouncer

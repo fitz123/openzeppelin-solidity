@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 
-import "../lifecycle/Pausable.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/lifecycle/Pausable.sol";
 
 
 // mock class using Pausable

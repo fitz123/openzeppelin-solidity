@@ -1,7 +1,7 @@
 pragma solidity ^0.4.18;
 
-import "./BurnableToken.sol";
-import "./StandardToken.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/BurnableToken.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol";
 
 /**
  * @title Standard Burnable Token

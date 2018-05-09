@@ -1,8 +1,8 @@
 pragma solidity ^0.4.21;
 
-import "../../math/SafeMath.sol";
-import "../../ownership/Ownable.sol";
-import "../validation/TimedCrowdsale.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/math/SafeMath.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ownership/Ownable.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/crowdsale/validation/TimedCrowdsale.sol";
 
 
 /**

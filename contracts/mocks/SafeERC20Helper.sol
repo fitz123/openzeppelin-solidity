@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
-import "../token/ERC20/ERC20.sol";
-import "../token/ERC20/SafeERC20.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/SafeERC20.sol";
 
 
 contract ERC20FailingMock is ERC20 {

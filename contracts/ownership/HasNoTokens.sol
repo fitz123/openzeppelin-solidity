@@ -1,6 +1,6 @@
 pragma solidity ^0.4.21;
 
-import "./CanReclaimToken.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ownership/CanReclaimToken.sol";
 
 
 /**

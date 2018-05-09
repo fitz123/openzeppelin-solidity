@@ -1,9 +1,9 @@
 pragma solidity ^0.4.21;
 
-import "../crowdsale/validation/CappedCrowdsale.sol";
-import "../crowdsale/distribution/RefundableCrowdsale.sol";
-import "../crowdsale/emission/MintedCrowdsale.sol";
-import "../token/ERC20/MintableToken.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/crowdsale/validation/CappedCrowdsale.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/crowdsale/distribution/RefundableCrowdsale.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/MintableToken.sol";
 
 
 /**

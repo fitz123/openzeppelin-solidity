@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
-import "../ReentrancyGuard.sol";
-import "./ReentrancyAttack.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ReentrancyGuard.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/mocks/ReentrancyAttack.sol";
 
 
 contract ReentrancyMock is ReentrancyGuard {

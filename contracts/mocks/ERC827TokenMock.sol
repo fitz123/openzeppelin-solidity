@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 
-import "../token/ERC827/ERC827Token.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC827/ERC827Token.sol";
 
 
 // mock class using ERC827 Token

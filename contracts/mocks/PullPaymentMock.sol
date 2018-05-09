@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 
-import "../payment/PullPayment.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/payment/PullPayment.sol";
 
 
 // mock class using PullPayment

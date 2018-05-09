@@ -1,9 +1,9 @@
 pragma solidity ^0.4.21;
 
-import "./ERC721Basic.sol";
-import "./ERC721Receiver.sol";
-import "../../math/SafeMath.sol";
-import "../../AddressUtils.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC721/ERC721Basic.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC721/ERC721Receiver.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/math/SafeMath.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/AddressUtils.sol";
 
 
 /**

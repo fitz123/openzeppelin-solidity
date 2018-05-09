@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
-import "../token/ERC20/MintableToken.sol";
-import "../crowdsale/distribution/FinalizableCrowdsale.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/MintableToken.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/crowdsale/distribution/FinalizableCrowdsale.sol";
 
 
 contract FinalizableCrowdsaleImpl is FinalizableCrowdsale {

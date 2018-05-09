@@ -1,8 +1,8 @@
 pragma solidity ^0.4.21;
 
 
-import "./ERC20Basic.sol";
-import "../../math/SafeMath.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/ERC20Basic.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/math/SafeMath.sol";
 
 
 /**

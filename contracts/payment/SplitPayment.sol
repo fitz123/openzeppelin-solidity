@@ -1,6 +1,6 @@
 pragma solidity ^0.4.21;
 
-import "../math/SafeMath.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/math/SafeMath.sol";
 
 
 /**

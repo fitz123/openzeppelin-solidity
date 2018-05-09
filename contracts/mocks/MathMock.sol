@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 
-import "../../contracts/math/Math.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/math/Math.sol";
 
 
 contract MathMock {

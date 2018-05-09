@@ -1,6 +1,6 @@
 pragma solidity ^0.4.21;
 
-import "../ownership/rbac/RBACWithAdmin.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ownership/rbac/RBACWithAdmin.sol";
 
 
 contract RBACMock is RBACWithAdmin {

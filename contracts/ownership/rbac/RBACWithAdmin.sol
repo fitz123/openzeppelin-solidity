@@ -1,6 +1,6 @@
 pragma solidity ^0.4.21;
 
-import "./RBAC.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ownership/rbac/RBAC.sol";
 
 
 /**

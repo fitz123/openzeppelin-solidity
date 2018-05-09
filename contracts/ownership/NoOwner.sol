@@ -1,8 +1,8 @@
 pragma solidity ^0.4.21;
 
-import "./HasNoEther.sol";
-import "./HasNoTokens.sol";
-import "./HasNoContracts.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ownership/HasNoEther.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ownership/HasNoTokens.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ownership/HasNoContracts.sol";
 
 
 /**

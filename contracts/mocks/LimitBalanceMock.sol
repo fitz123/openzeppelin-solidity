@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 
-import "../LimitBalance.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/LimitBalance.sol";
 
 
 // mock class using LimitBalance

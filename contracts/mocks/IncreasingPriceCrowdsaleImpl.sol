@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
-import "../crowdsale/price/IncreasingPriceCrowdsale.sol";
-import "../math/SafeMath.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/crowdsale/price/IncreasingPriceCrowdsale.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/math/SafeMath.sol";
 
 
 contract IncreasingPriceCrowdsaleImpl is IncreasingPriceCrowdsale {

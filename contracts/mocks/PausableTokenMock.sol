@@ -1,6 +1,6 @@
 pragma solidity ^0.4.21;
 
-import "../token/ERC20/PausableToken.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/PausableToken.sol";
 
 
 // mock class using PausableToken

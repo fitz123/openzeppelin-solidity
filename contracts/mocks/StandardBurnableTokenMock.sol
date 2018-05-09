@@ -1,6 +1,6 @@
 pragma solidity ^0.4.18;
 
-import "../token/ERC20/StandardBurnableToken.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/StandardBurnableToken.sol";
 
 
 contract StandardBurnableTokenMock is StandardBurnableToken {

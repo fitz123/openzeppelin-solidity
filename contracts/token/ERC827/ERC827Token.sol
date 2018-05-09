@@ -2,8 +2,8 @@
 
 pragma solidity ^0.4.21;
 
-import "./ERC827.sol";
-import "../ERC20/StandardToken.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC827/ERC827.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol";
 
 
 /**

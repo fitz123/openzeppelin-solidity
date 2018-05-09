@@ -1,6 +1,6 @@
 pragma solidity ^0.4.21;
 
-import "../../contracts/DayLimit.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/DayLimit.sol";
 
 
 contract DayLimitMock is DayLimit {

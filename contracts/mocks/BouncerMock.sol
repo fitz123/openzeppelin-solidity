@@ -1,6 +1,6 @@
 pragma solidity ^0.4.18;
 
-import "../access/SignatureBouncer.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/access/SignatureBouncer.sol";
 
 
 contract SignatureBouncerMock is SignatureBouncer {

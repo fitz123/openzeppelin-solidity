@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 
-import "../ECRecovery.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ECRecovery.sol";
 
 
 contract ECRecoveryMock {

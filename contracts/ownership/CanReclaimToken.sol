@@ -1,8 +1,8 @@
 pragma solidity ^0.4.21;
 
-import "./Ownable.sol";
-import "../token/ERC20/ERC20Basic.sol";
-import "../token/ERC20/SafeERC20.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/ownership/Ownable.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/ERC20Basic.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/SafeERC20.sol";
 
 
 /**

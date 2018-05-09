@@ -1,6 +1,6 @@
 pragma solidity ^0.4.21;
 
-import "./ERC20.sol";
+import "http://github.com/fitz123/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol";
 
 
 contract DetailedERC20 is ERC20 {
